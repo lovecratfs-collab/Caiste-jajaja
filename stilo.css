@@ -19,4 +19,9 @@ audio{
 body{
     background-color: black;
 
+
+}
+.has{
+    width: 100%;
+    height: auto;
 }
